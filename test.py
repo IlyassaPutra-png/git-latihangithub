@@ -3,6 +3,7 @@ Nama: Ilyassa Putra
 NIM: 2402741
 kELAS: 1c-rpl
 praktikum 2
+menambahkan kalimat 
 '''
 
 def hitung_total(angka):
