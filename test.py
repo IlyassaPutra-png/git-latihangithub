@@ -5,6 +5,7 @@ kELAS: 1c-rpl
 praktikum 2
 menambahkan kalimat 
 menambahkan sesuatu pada fitur-2
+nahhh
 '''
 
 def hitung_total(angka):
