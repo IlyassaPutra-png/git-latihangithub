@@ -1,4 +1,5 @@
 #uts6
+#menambahkan rumus prima
 N = int(input("Masukkan nilai N = "))
 numbers = []
 for i in range(N):
