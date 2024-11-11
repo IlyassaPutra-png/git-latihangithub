@@ -4,6 +4,7 @@ NIM: 2402741
 kELAS: 1c-rpl
 praktikum 2
 menambahkan kalimat 
+menambahkan sesuatu pada fitur-2
 '''
 
 def hitung_total(angka):
