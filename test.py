@@ -6,6 +6,7 @@ praktikum 2
 menambahkan kalimat 
 menambahkan sesuatu pada fitur-2
 nahhh
+iyaaaa
 '''
 
 def hitung_total(angka):
